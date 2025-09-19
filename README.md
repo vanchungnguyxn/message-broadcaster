@@ -1,6 +1,6 @@
 # 📡 Java Notification System Projects
 
-Hai dự án Java hoàn chỉnh với GUI và Web Client cho hệ thống thông báo real-time.
+Dự án Java hoàn chỉnh với GUI và Web Client cho hệ thống thông báo real-time.
 
 ## 📋 Tổng quan
 
@@ -61,24 +61,6 @@ Mở trình duyệt và truy cập: **http://localhost:8080**
 - **Sound alerts** khi có tin nhắn mới
 - **Unread counter** với page title update
 - **Auto-reconnection** khi mất kết nối
-
-
-### 🎯 Cách chạy
-
-#### Bước 1: Navigate to folder
-```bash
-cd nuyentancanh
-```
-
-#### Bước 2: Compile
-```bash
-javac MessageBroadcaster.java
-```
-
-#### Bước 3: Chạy ứng dụng
-```bash
-java MessageBroadcaster
-```
 
 ---
 
@@ -147,8 +129,6 @@ javac -verbose NotifyServerGui.java
 ---
 
 ## 🎉 Demo
-
-### 🖥️ Chạy đồng thời cả hai dự án:
 
 #### Terminal 1:
 ```bash
