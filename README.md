@@ -1,6 +1,6 @@
 # 📡 Java Notification System Projects
 
-Hai dự án Java hoàn chỉnh với GUI và Web Client cho hệ thống thông báo real-time.
+Dự án Java hoàn chỉnh với GUI và Web Client cho hệ thống thông báo real-time.
 
 ## 📋 Tổng quan
 
@@ -129,8 +129,6 @@ javac -verbose NotifyServerGui.java
 ---
 
 ## 🎉 Demo
-
-### 🖥️ Chạy đồng thời cả hai dự án:
 
 #### Terminal 1:
 ```bash
