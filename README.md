@@ -7,6 +7,11 @@ Dự án Java hoàn chỉnh với GUI và Web Client cho hệ thống thông bá
 Repository này chứa hai dự án độc lập:
 
 1. **NotifyServerGui.java** - Hệ thống thông báo với giao diện Facebook-like
+## Ảnh màn hình
+
+| Web client (đã kết nối) | Server GUI | Web client sau khi có thông báo |
+|---|---|---|
+| ![Web connected](assets/screenshots/web-connected.png) | ![Server GUI](assets/screenshots/server-gui.png) | ![Web after broadcast](assets/screenshots/web-message.png) |
 
 ---
 
