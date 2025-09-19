@@ -62,24 +62,6 @@ Mở trình duyệt và truy cập: **http://localhost:8080**
 - **Unread counter** với page title update
 - **Auto-reconnection** khi mất kết nối
 
-
-### 🎯 Cách chạy
-
-#### Bước 1: Navigate to folder
-```bash
-cd nuyentancanh
-```
-
-#### Bước 2: Compile
-```bash
-javac MessageBroadcaster.java
-```
-
-#### Bước 3: Chạy ứng dụng
-```bash
-java MessageBroadcaster
-```
-
 ---
 
 ## ⚙️ Yêu cầu hệ thống
